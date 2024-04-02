@@ -1,5 +1,5 @@
 @echo off
-title userbruteforce - Ebola Man
+title userbruteforce - Soap9601
 setlocal enabledelayedexpansion
 chcp 65001 >nul
 :start
